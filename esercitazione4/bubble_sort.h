@@ -1,0 +1,16 @@
+#include <vector>
+
+template<typename T>
+void bubble_sort(std::vector<T>& vec) {
+
+	
+	for(size_t i=0; i<vec.size() - 1; i++){
+		for (size_t j=vec.size() - 1; j > i; j--){
+			if(vec[j]<vec[j-1]){
+				T temp = vec[j];
+				vec[j] = vec[j-1];
+				vec[j-1] = temp;
+			}
+		}
+	}
+}

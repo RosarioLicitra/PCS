@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/time_sorts.dir/link.d CMakeFiles/time_sorts.dir/timecounter.cpp.o CMakeFiles/time_sorts.dir/time_sorts.cpp.o -o time_sorts
