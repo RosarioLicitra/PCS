@@ -1,0 +1,51 @@
+Start testing: May 06 20:27 UTC
+----------------------------------------------------------
+1/3 Testing: mergesort
+1/3 Test: mergesort
+Command: "/home/pcsdocker/Data/PCS/esercitazione5/build/test_merge"
+Directory: /home/pcsdocker/Data/PCS/esercitazione5/build
+"mergesort" start time: May 06 20:27 UTC
+Output:
+----------------------------------------------------------
+Test di merge Sort completati con successo!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"mergesort" end time: May 06 20:27 UTC
+"mergesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: quicksort
+2/3 Test: quicksort
+Command: "/home/pcsdocker/Data/PCS/esercitazione5/build/test_quick"
+Directory: /home/pcsdocker/Data/PCS/esercitazione5/build
+"quicksort" start time: May 06 20:27 UTC
+Output:
+----------------------------------------------------------
+Test di quick Sort completati con successo!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"quicksort" end time: May 06 20:27 UTC
+"quicksort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: hybridsort
+3/3 Test: hybridsort
+Command: "/home/pcsdocker/Data/PCS/esercitazione5/build/test_hybrid"
+Directory: /home/pcsdocker/Data/PCS/esercitazione5/build
+"hybridsort" start time: May 06 20:27 UTC
+Output:
+----------------------------------------------------------
+Test di Hybrid Quick Sort completati con successo!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"hybridsort" end time: May 06 20:27 UTC
+"hybridsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 20:27 UTC

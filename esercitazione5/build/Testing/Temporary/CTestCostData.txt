@@ -1,0 +1,7 @@
+test_merge 0 0
+test_quick 0 0
+test_hybrid 0 0
+mergesort 1 0.0144709
+quicksort 1 0.0122547
+hybridsort 1 0.0117887
+---

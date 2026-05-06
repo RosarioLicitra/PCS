@@ -1,0 +1,3 @@
+Effettuando vari test su vettori di dimensioni <100 ho notato che i tempi dell'insertion sort restavano comunque minori di quelli del quick. Così ho effettuato nuovi test aumentando la dimensione dei vettori e ho trovato che la "soglia" in cui il quick supera l'insertion è con dimensione di circa 215. 
+
+Inoltre, notiamo come std::sort abbia sempre tempi inferiori agli altri algoritmi di ordinamento.

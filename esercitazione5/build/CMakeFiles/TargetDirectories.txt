@@ -1,0 +1,7 @@
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/time_sorts.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/test_merge.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/test_quick.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/test_hybrid.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/PCS/esercitazione5/build/CMakeFiles/rebuild_cache.dir
